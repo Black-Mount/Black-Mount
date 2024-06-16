@@ -75,15 +75,15 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
       <td>
         <strong>IBM Data Science Professional Certificate</strong> (2024)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="IBM Data Science Certificate" width="200" height="200">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/G2XF7F932FPL">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/IBM%20certificate.jpg" alt="IBM Data Science Certificate" width="200" height="200">
         </a>
       </td>
       <td>
         <strong>Google Professional Certificate in IT Support</strong> (2022)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Google IT Support Certificate" width="200" height="200">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/5RJ2A2XYVHAL">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/IT%20certificate.jpg" alt="Google IT Support Certificate" width="200" height="200">
         </a>
       </td>
     </tr>
@@ -91,15 +91,15 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
       <td>
         <strong>Full Stack Programming Certificate from Egg International</strong> (2023)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Full Stack Programming Certificate" width="200" height="200">
+        <a href="https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/64124f32d1b81e553168b7a0-1701739163990.pdf">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/full%20stack%20certificate.jpg" alt="Full Stack Programming Certificate" width="200" height="200">
         </a>
       </td>
       <td>
         <strong>GitHub Cloud Skills Certificate from Microsoft</strong> (2023)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="GitHub Cloud Skills Certificate" width="200" height="200">
+        <a href="https://learn.microsoft.com/api/achievements/share/es-mx/SantiagoMontenegroQuiroga-6081/QD9K35LE?sharingId=AA9B2F3490F29402">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/github%20universe.png" alt="GitHub Cloud Skills Certificate" width="200" height="200">
         </a>
       </td>
     </tr>
@@ -107,15 +107,15 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
       <td>
         <strong>Data Science Certificate from Universidad Distrital</strong> (2024)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Data Science Certificate" width="200" height="200">
+        <a href="https://github.com/Black-Mount/Varios/blob/main/ud%20certificate.jpg">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/ud%20certificate.jpg" alt="Data Science Certificate" width="200" height="200">
         </a>
       </td>
       <td>
         <strong>English C1 Level (PTE Academic)</strong> (2024)
         <br>
-        <a href="YOUR_CERTIFICATE_LINK">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="English C1 Level Certificate" width="200" height="200">
+        <a href="https://github.com/Black-Mount/Varios/blob/main/pte%20certificate.png">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/pte%20certificate.png" alt="English C1 Level Certificate" width="200" height="200">
         </a>
       </td>
     </tr>
@@ -156,8 +156,8 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
     <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="50" height="50" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ing.montenegro@ieee.org">
-    <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="50" height="50" alt="Gmail">
+  <a href="https://github.com/Black-Mount/Varios/blob/main/gmail.png">
+    <img src="https://github.com/Black-Mount/Varios/blob/main/gmail.png" width="50" height="50" alt="Gmail">
   </a>
 </div>
 
