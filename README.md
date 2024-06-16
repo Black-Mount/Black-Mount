@@ -9,19 +9,22 @@ I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer
 ## Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-Arduino-blue?logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-RaspberryPi-red?logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/Tool-Git-blue?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Tool-TensorFlow-orange?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/SolidWorks-red?logo=solidworks&logoColor=white">
 </div>
 
 ---
 
-## Projects
+## Repositories
 
 <div align="center">
   <table>
@@ -66,12 +69,58 @@ I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer
 
 ## Achievements and Certifications
 
-- **IBM Data Science Professional Certificate** (2024)
-- **Google Professional Certificate in IT Support** (2022)
-- **Full Stack Programming Certificate from Egg International** (2023)
-- **GitHub Cloud Skills Certificate from Microsoft** (2023)
-- **Data Science Certificate from Universidad Distrital** (2024)
-- **English C1 Level (PTE Academic)** (2024)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>IBM Data Science Professional Certificate</strong> (2024)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="IBM Data Science Certificate" width="200" height="200">
+        </a>
+      </td>
+      <td>
+        <strong>Google Professional Certificate in IT Support</strong> (2022)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Google IT Support Certificate" width="200" height="200">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Full Stack Programming Certificate from Egg International</strong> (2023)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Full Stack Programming Certificate" width="200" height="200">
+        </a>
+      </td>
+      <td>
+        <strong>GitHub Cloud Skills Certificate from Microsoft</strong> (2023)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="GitHub Cloud Skills Certificate" width="200" height="200">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Data Science Certificate from Universidad Distrital</strong> (2024)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="Data Science Certificate" width="200" height="200">
+        </a>
+      </td>
+      <td>
+        <strong>English C1 Level (PTE Academic)</strong> (2024)
+        <br>
+        <a href="YOUR_CERTIFICATE_LINK">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" alt="English C1 Level Certificate" width="200" height="200">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -119,4 +168,3 @@ I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer
 If you have any suggestions for improving this portfolio or if you just want to connect, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/santiago-montenegro-quiroga-609b07201) or [Gmail](mailto:ing.montenegro@ieee.org).
 
 Thank you for visiting my profile! 🚀
-
