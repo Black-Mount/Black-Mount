@@ -122,6 +122,9 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
   </table>
 </div>
 
+
+These are some of the most relevant certifications showcasing my skills, if you want to see more, visit my [LinkedIn](https://www.linkedin.com/in/santiago-montenegro-quiroga-609b07201) or [Credly](https://www.credly.com/users/santiago-montenegro-quiroga) profiles!
+
 ---
 
 ## Work Experience
