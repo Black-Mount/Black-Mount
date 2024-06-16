@@ -9,17 +9,19 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
 ## Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/SolidWorks-red?logo=solidworks&logoColor=white" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python" title="Python">
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java" title="Java">
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" alt="C" title="C">
+  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" alt="C++" title="C++">
+  <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white" alt="Arduino" title="Arduino">
+  <br>
+  <img src="https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" title="Raspberry Pi">
+  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" alt="MATLAB" title="MATLAB">
+  <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white" alt="R" title="R">
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL" title="SQL">
+  <br>
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white" alt="Unity" title="Unity">
+  <img src="https://img.shields.io/badge/SolidWorks-red?logo=solidworks&logoColor=white" alt="SolidWorks" title="SolidWorks">
 </div>
 
 ---
