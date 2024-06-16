@@ -1,4 +1,4 @@
-# Santiago Montenegro - Mechatronics Engineering Student | Data Science | Robotics
+# Santiago Montenegro - Mechatronics Engineering Student | Computer Science student | EMBS IEEE UMNG Vicechair | Data Science | Robotics
 
 ## About Me
 
