@@ -161,8 +161,12 @@ These are some of the most relevant certifications showcasing my skills, if you 
     <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="50" height="50" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Black-Mount/Varios/blob/main/gmail.png">
+  <a href="mailto:ing.montenegro@ieee.org">
     <img src="https://github.com/Black-Mount/Varios/blob/main/gmail.png" width="50" height="50" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.link/pio3t6">
+    <img src="https://github.com/Black-Mount/Varios/blob/main/WhatsApp_icon.png" width="50" height="50" alt="WhatsApp">
   </a>
 </div>
 
