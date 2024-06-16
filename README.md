@@ -1,4 +1,4 @@
-# Santiago Montenegro - Mechatronics Engineering Student | Computer Science student | EMBS IEEE UMNG Vicechair | Data Science | Robotics
+# Santiago Montenegro - Mechatronics Engineering Student | Data Science | Robotics
 
 ## About Me
 
@@ -31,19 +31,19 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
     <tr>
       <td align="center">
         <a href="https://github.com/Black-Mount/STM32-Projects">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="STM32 Projects Image">
-          <br>STM32 Projects for Embedded Systems
+          <img src="https://github.com/Black-Mount/Varios/blob/main/stm32.png" width="100" height="100" alt="STM32 Projects Image">
+          <br>STM32 Projects
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/IBM-DataScience">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="IBM Data Science Image">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/data%20ibm.png" width="100" height="100" alt="IBM Data Science Image">
           <br>IBM Data Science Projects
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/Java-Netbeans">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Java Netbeans Image">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/NetBeans-Logo.wine.png" width="100" height="100" alt="Java Netbeans Image">
           <br>Java Netbeans Projects
         </a>
       </td>
@@ -51,13 +51,13 @@ I am Santiago Montenegro, a Mechatronics Engineering and Computer Science studen
     <tr>
       <td align="center">
         <a href="https://github.com/Black-Mount/Data-ScienceUD">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Data Science UD Image">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/data%20ud.png" width="100" height="100" alt="Data Science UD Image">
           <br>Data Science UD Projects
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/Java-Eclipse">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Java Eclipse Image">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/eclipse%20logo.png" width="100" height="100" alt="Java Eclipse Image">
           <br>Java Eclipse Projects
         </a>
       </td>
