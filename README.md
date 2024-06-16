@@ -2,7 +2,12 @@
 
 ## About Me
 
-I am Santiago Montenegro, a Mechatronics Engineering and Computer Science student passionate about Data Science, Robotics, and Healthcare Technology. Certified in Data Science and IT Support, I specialize in developing exergames for rehabilitation and exploring applications of AI in medical robotics and prosthetic development.
+Hello! I'm Santiago Montenegro, a driven student studying Mechatronics Engineering and Computer Science. I hold certifications in Data Science and IT Support and have a strong background in teaching electronics, robotics, and programming. My interests lie in leveraging data science, analytics, and artificial intelligence to innovate healthcare technologies, particularly in medical robotics and prosthetic development.
+
+- 🎓 Currently pursuing dual degrees in Mechatronics Engineering and Computer Science.
+- 💻 Proficient in Python, Java, R, SQL, C++, and MATLAB, with a focus on robotics and data-driven solutions.
+- 🤖 Dedicated to applying AI and data analytics to advance medical robotics and prosthetic development.
+- 🌱 Constantly seeking new opportunities to learn and innovate in healthcare technology.
 
 ---
 
