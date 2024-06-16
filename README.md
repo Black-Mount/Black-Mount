@@ -1,25 +1,25 @@
-# Hi there! 👋
+# Santiago Montenegro - Mechatronics Engineering Student | Computer Science student | EMBS IEEE UMNG Vicechair | Data Science | Robotics
 
 ## About Me
 
-I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer Science. I am professionally certified in Data Science and IT Support, with experience in developing exergames aimed at rehabilitation, teaching electronics, robotics, and programming in English. I am skilled in project management, leadership, problem-solving, effective communication, and teamwork. I have a particular interest in the application of data science, data analytics, and artificial intelligence for healthcare, especially in areas such as medical robotics, prosthetic development, and rehabilitation. I am always eager to learn and constantly improve.
+I am Santiago Montenegro, a Mechatronics Engineering and Computer Science student passionate about Data Science, Robotics, and Healthcare Technology. Certified in Data Science and IT Support, I specialize in developing exergames for rehabilitation and exploring applications of AI in medical robotics and prosthetic development.
 
 ---
 
 ## Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/SolidWorks-red?logo=solidworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/SolidWorks-red?logo=solidworks&logoColor=white" alt="SolidWorks">
 </div>
 
 ---
@@ -32,19 +32,19 @@ I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer
       <td align="center">
         <a href="https://github.com/Black-Mount/STM32-Projects">
           <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="STM32 Projects Image">
-          <br>STM32 Projects
+          <br>STM32 Projects for Embedded Systems
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/IBM-DataScience">
           <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="IBM Data Science Image">
-          <br>IBM Data Science
+          <br>IBM Data Science Projects
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/Java-Netbeans">
           <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Java Netbeans Image">
-          <br>Java Netbeans
+          <br>Java Netbeans Projects
         </a>
       </td>
     </tr>
@@ -52,13 +52,13 @@ I am **Santiago Montenegro**, a student of Mechatronics Engineering and Computer
       <td align="center">
         <a href="https://github.com/Black-Mount/Data-ScienceUD">
           <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Data Science UD Image">
-          <br>Data Science UD
+          <br>Data Science UD Projects
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Black-Mount/Java-Eclipse">
           <img src="https://github.com/Black-Mount/Varios/blob/main/LinkedIn_icon.svg.png" width="100" height="100" alt="Java Eclipse Image">
-          <br>Java Eclipse
+          <br>Java Eclipse Projects
         </a>
       </td>
     </tr>
