@@ -7,7 +7,7 @@ Hello! I'm Santiago Montenegro, a committed and passionate student of Medical En
 Currently, I am focused on the development of predictive AI algorithms using sEMG signals and building interactive VR rehabilitation games. I've also worked as an interpreter and educator, and held multiple leadership roles in IEEE student branches.
 
 - 🎓 Pursuing dual degrees in Medical Engineering (QUT) and Computer Science (UoPeople).
-- 🤖 Experience in AI for healthcare: signal processing and LSTM neural networks.
+- 🤖 Strong experience in AI for healthcare: signal processing and LSTM neural networks.
 - 🎮 Developer of VR games for elbow rehabilitation using Unity and OpenXR.
 - 🌐 Bilingual communicator with leadership experience in IEEE and STEAM education.
 - 💡 Committed to building technologies that positively impact lives.
@@ -136,24 +136,32 @@ Currently, I am focused on the development of predictive AI algorithms using sEM
 
 ## Work Experience
 
-- **Research Assistant** at Universidad Militar Nueva Granada (July 2023 - June 2024)  
-  Developed AI algorithms using LSTM for estimating quadriceps strength from sEMG signals. Led the design and development of a VR game for elbow rehabilitation.
+- **Undergraduate Research Assistant** at Universidad Militar Nueva Granada (July 2023 – June 2024)  
+  Developed a virtual reality exergame integrated with an upper-limb rehabilitation system targeting the elbow joint. Used Unity and OpenXR to create diagnostic-specific experiences for conditions like epicondylitis.
 
-- **Robotics and Programming Course Director** at Loop K2 Academia STEAM (January 2024 - Current)  
-  Taught in bilingual settings, integrating block programming, electronics, and microcontrollers.
+- **Undergraduate Research Student** at Universidad Militar Nueva Granada (July 2024 – Dec 2024)  
+  Conducted interdisciplinary research combining AI and biomechanics. Designed and executed a project involving signal acquisition from surface electromyography (sEMG), data processing, and the training of an LSTM neural network to predict quadriceps strength with over 80% accuracy.
 
-- **Medical/Banking Interpreter** at Teleperformance (July 2024 - Jan 2025)  
-  Provided high-quality interpretation in critical contexts, awarded "Top Star" recognition.
+- **Robotics and Programming Course Director** at Loop K2 Academia STEAM (Jan 2024 – Jan 2025)  
+  Delivered bilingual classes on STEAM, block-based and microcontroller programming, and analog electronics. Promoted active learning through project-based education.
+
+- **Consecutive Interpreter – Medical & Banking** at Teleperformance (Jul 2024 – Jan 2025)  
+  Facilitated effective communication between patients, clients, and professionals in sensitive contexts. Recognized as “Top Star” interpreter in September 2024.
 
 ---
 
 ## Volunteering
 
-- **Vice Chair** – EMBS IEEE Universidad Militar (Jan 2024 - June 2024)
-- **Student Branch Chair** – IEEE UMNG (2021 - 2023)  
-  Founded multiple technical chapters and led large-scale events like Summit Colombia 2022.
-- **Computer Group Leader** – VTS IEEE UMNG (June - Nov 2023)
-- **IEEE Student Member** (2021 - Current)
+- **Vice Chair – EMBS IEEE Universidad Militar Student Branch** (Jan 2024 – Jun 2024)  
+  Supporting the promotion of the chapter at my university through working groups focused on areas of biomedical engineering and promoting the growth of the chapter in order to make it official.
+
+- **Student Branch Chair – IEEE Universidad Militar** (Jan 2021 – Dec 2023)  
+  Fostered the creation of student chapters such as EMBS, VTS, AESS, and RAS. Led local and national events like the Summit Colombia 2022, and promoted organizational growth, which brought regional recognition, including third place in the SBRM 2023 Student Branch Success Case.
+
+- **Computer Group Leader – VTS IEEE Universidad Militar Student Branch** (Jun 2023 – Nov 2023)  
+  Led the development of an informative web page, with authentication system, and telemetry system for the online visualization of the sensors of an electric car.
+
+- **IEEE Student Member** (2021 – Current)
 
 ---
 
