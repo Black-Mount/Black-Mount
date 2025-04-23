@@ -161,6 +161,9 @@ Currently, I am focused on the development of predictive AI algorithms using sEM
 - **Computer Group Leader – VTS IEEE Universidad Militar Student Branch** (Jun 2023 – Nov 2023)  
   Led the development of an informative web page, with authentication system, and telemetry system for the online visualization of the sensors of an electric car.
 
+- **Webmaster – IEEE QUT Student Branch** (Mar 2025 – Present)  
+  Responsible for managing the branch’s social media presence and designing visual content for outreach. I create graphics for events, announcements, and community engagement, ensuring brand consistency and professional presentation across platforms.
+
 - **IEEE Student Member** (2021 – Current)
 
 ---
