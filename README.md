@@ -1,13 +1,16 @@
-# Santiago Montenegro - Mechatronics Engineering Student | Computer Science student | EMBS IEEE UMNG Vicechair | Data Science | Robotics
+# Santiago Montenegro - Medical Engineering | Computer Science | Data Science | Robotics
 
 ## About Me
 
-Hello! I'm Santiago Montenegro, a driven student studying Mechatronics Engineering and Computer Science. I hold certifications in Data Science and IT Support and have a strong background in teaching electronics, robotics, and programming. My interests lie in leveraging data science, analytics, and artificial intelligence to innovate healthcare technologies, particularly in medical robotics and prosthetic development.
+Hello! I'm Santiago Montenegro, a committed and passionate student of Medical Engineering and Computer Science. Professionally certified in Data Science by IBM, with hands-on experience in artificial intelligence, biomechanics, and virtual reality applications for healthcare. I thrive in interdisciplinary environments where engineering meets human impact.
 
-- 🎓 Currently pursuing dual degrees in Mechatronics Engineering and Computer Science.
-- 💻 Proficient in Python, Java, R, SQL, C++, and MATLAB, with a focus on robotics and data-driven solutions.
-- 🤖 Dedicated to applying AI and data analytics to advance medical robotics and prosthetic development.
-- 🌱 Constantly seeking new opportunities to learn and innovate in healthcare technology.
+Currently, I am focused on the development of predictive AI algorithms using sEMG signals and building interactive VR rehabilitation games. I've also worked as an interpreter and educator, and held multiple leadership roles in IEEE student branches.
+
+- 🎓 Pursuing dual degrees in Medical Engineering (QUT) and Computer Science (UoPeople).
+- 🤖 Experience in AI for healthcare: signal processing and LSTM neural networks.
+- 🎮 Developer of VR games for elbow rehabilitation using Unity and OpenXR.
+- 🌐 Bilingual communicator with leadership experience in IEEE and STEAM education.
+- 💡 Committed to building technologies that positively impact lives.
 
 ---
 
@@ -83,14 +86,14 @@ Hello! I'm Santiago Montenegro, a driven student studying Mechatronics Engineeri
         <strong>IBM Data Science Professional Certificate</strong> (2024)
         <br>
         <a href="https://www.coursera.org/account/accomplishments/specialization/G2XF7F932FPL">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/IBM%20certificate.jpg" alt="IBM Data Science Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/IBM%20certificate.jpg" alt="IBM Data Science Certificate" width="250">
         </a>
       </td>
       <td>
         <strong>Google Professional Certificate in IT Support</strong> (2022)
         <br>
         <a href="https://www.coursera.org/account/accomplishments/specialization/5RJ2A2XYVHAL">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/IT%20certificate.jpg" alt="Google IT Support Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/IT%20certificate.jpg" alt="Google IT Support Certificate" width="250">
         </a>
       </td>
     </tr>
@@ -99,14 +102,14 @@ Hello! I'm Santiago Montenegro, a driven student studying Mechatronics Engineeri
         <strong>Full Stack Programming Certificate from Egg International</strong> (2023)
         <br>
         <a href="https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/64124f32d1b81e553168b7a0-1701739163990.pdf">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/full%20stack%20certificate.jpg" alt="Full Stack Programming Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/full%20stack%20certificate.jpg" alt="Full Stack Programming Certificate" width="250">
         </a>
       </td>
       <td>
         <strong>GitHub Cloud Skills Certificate from Microsoft</strong> (2023)
         <br>
         <a href="https://learn.microsoft.com/api/achievements/share/es-mx/SantiagoMontenegroQuiroga-6081/QD9K35LE?sharingId=AA9B2F3490F29402">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/github%20universe.png" alt="GitHub Cloud Skills Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/github%20universe.png" alt="GitHub Cloud Skills Certificate" width="250">
         </a>
       </td>
     </tr>
@@ -115,46 +118,41 @@ Hello! I'm Santiago Montenegro, a driven student studying Mechatronics Engineeri
         <strong>Data Science Certificate from Universidad Distrital</strong> (2024)
         <br>
         <a href="https://github.com/Black-Mount/Varios/blob/main/ud%20certificate.jpg">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/ud%20certificate.jpg" alt="Data Science Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/ud%20certificate.jpg" alt="Data Science Certificate" width="250">
         </a>
       </td>
       <td>
         <strong>English C1 Level (PTE Academic)</strong> (2024)
         <br>
         <a href="https://github.com/Black-Mount/Varios/blob/main/pte%20certificate.png">
-          <img src="https://github.com/Black-Mount/Varios/blob/main/pte%20certificate.png" alt="English C1 Level Certificate" width="250" style="max-width:100%;">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/pte%20certificate.png" alt="English C1 Level Certificate" width="250">
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-
-These are some of the most relevant certifications showcasing my skills, if you want to see more, visit my [LinkedIn](https://www.linkedin.com/in/santiago-montenegro-quiroga-609b07201) or [Credly](https://www.credly.com/users/santiago-montenegro-quiroga) profiles!
-
 ---
 
 ## Work Experience
 
-- **Research Assistant** at Universidad Militar Nueva Granada (July 2023 - Current)
-  - Developing a virtual reality exergame aimed at integration with an upper extremity rehabilitation system focused on the elbow joint.
+- **Research Assistant** at Universidad Militar Nueva Granada (July 2023 - June 2024)  
+  Developed AI algorithms using LSTM for estimating quadriceps strength from sEMG signals. Led the design and development of a VR game for elbow rehabilitation.
 
-- **Robotics and Programming Teacher** at Loop K2 Academia STEAM (January 2024 - Current)
-  - Teaching classes in both Spanish and English, focusing on the development of STEAM skills, block programming, problem-solving, microcontroller programming, and analog electronics using resources such as LEGO Spike and Microbit.
+- **Robotics and Programming Course Director** at Loop K2 Academia STEAM (January 2024 - Current)  
+  Taught in bilingual settings, integrating block programming, electronics, and microcontrollers.
+
+- **Medical/Banking Interpreter** at Teleperformance (July 2024 - Jan 2025)  
+  Provided high-quality interpretation in critical contexts, awarded "Top Star" recognition.
 
 ---
 
 ## Volunteering
 
-- **Vice Chair** of EMBS IEEE Universidad Militar Student Branch (January 2024 - Current)
-  - Supporting the promotion of the chapter through working groups focused on biomedical engineering and promoting the growth of the chapter to make it official.
-
-- **Student Branch Chair** at IEEE Universidad Militar Student Branch (2021 - 2023)
-  - Fostered the creation of student chapters such as EMBS, VTS, AESS, and RAS, led local and national events like the Summit Colombia 2022, and promoted organizational growth, earning regional recognition.
-
-- **Computer Group Leader** at VTS IEEE Universidad Militar Student Branch (June - November 2023)
-  - Led the development of an informative web page with an authentication system and telemetry system for the online visualization of the sensors of an electric car.
-
+- **Vice Chair** – EMBS IEEE Universidad Militar (Jan 2024 - June 2024)
+- **Student Branch Chair** – IEEE UMNG (2021 - 2023)  
+  Founded multiple technical chapters and led large-scale events like Summit Colombia 2022.
+- **Computer Group Leader** – VTS IEEE UMNG (June - Nov 2023)
 - **IEEE Student Member** (2021 - Current)
 
 ---
@@ -179,6 +177,6 @@ These are some of the most relevant certifications showcasing my skills, if you 
 
 ## Suggestions for Improvement
 
-If you have any suggestions for improving this portfolio or if you just want to connect, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/santiago-montenegro-quiroga-609b07201) or [Gmail](mailto:ing.montenegro@ieee.org).
+If you have any feedback or just want to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/santiago-montenegro-quiroga-609b07201) or [Gmail](mailto:ing.montenegro@ieee.org).
 
-Thank you for visiting my profile! 🚀
+Thanks for visiting! 🚀
