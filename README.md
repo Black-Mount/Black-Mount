@@ -71,6 +71,12 @@ Currently, I am focused on the development of predictive AI algorithms using sEM
           <br>Java Eclipse Projects
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/Black-Mount/One_Program">
+          <img src="https://github.com/Black-Mount/Varios/blob/main/ONE_logo_rgb.png" width="100" height="100" alt="One Program Image">
+          <br>One Program
+        </a>
+      </td>
     </tr>
   </table>
 </div>
