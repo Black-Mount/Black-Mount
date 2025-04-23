@@ -2,9 +2,12 @@
 
 ## About Me
 
-Hello! I'm Santiago Montenegro, a committed and passionate student of Medical Engineering and Computer Science. Professionally certified in Data Science by IBM, with hands-on experience in artificial intelligence, biomechanics, and virtual reality applications for healthcare. I thrive in interdisciplinary environments where engineering meets human impact.
+Hello! I'm Santiago Montenegro, I'm a dual-degree student in Engineering (Honours) and Computer Science, specializing in Medical Engineering and Data Science. My work lies at the intersection of healthcare and technology, where I aim to design intelligent systems that enhance medical solutions and improve lives.
 
-Currently, I am focused on the development of predictive AI algorithms using sEMG signals and building interactive VR rehabilitation games. I've also worked as an interpreter and educator, and held multiple leadership roles in IEEE student branches.
+I’m skilled in a wide range of programming languages, including C++, Python, SQL, R, and MATLAB, and I have hands-on experience with tools like SolidWorks, ANSYS, and Fusion 360 for modeling and simulation. My focus is on developing algorithms and machine learning models that can be embedded in robotic systems—particularly in the context of medical applications.
+
+As an active member of IEEE Student Branch Chapter at QUT, I contribute to research and innovation initiatives that connect biomedical engineering, artificial intelligence, and robotics. I am driven by the belief that technology should serve people, and I strive to be part of the generation that redefines healthcare through engineering.
+
 
 - 🎓 Pursuing dual degrees in Medical Engineering (QUT) and Computer Science (UoPeople).
 - 🤖 Strong experience in AI for healthcare: signal processing and LSTM neural networks.
